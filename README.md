@@ -20,6 +20,8 @@ Program the robot to drive forward until it reaches POINT A. Let it rotate 5 tim
 
 ![](https://github.com/SanjinKurelic/ArduinoPlayground/blob/master/media/project1Image.png)
 
+[Download video result](https://github.com/SanjinKurelic/ArduinoPlayground/blob/master/media/Project13a.mp4)
+
 ## Project 14
 
 Program the robot to drive in a motion that resembles number 8 as much as possible. Do it for five times and then stop. Whenever the robot finishes driving one lap, let it quickly blink built-in LED as many times as is the current finished lap (for example, when it finishes third lap, it should blink 3 times).
