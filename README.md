@@ -6,13 +6,13 @@ Here is a list of some Arduino tasks solved using C++.
 
 Program the robot to drive forward in a motion that resambles sinus line as much as possible.
 
-[Download video result](https://github.com/SanjinKurelic/ArduinoPlayground/blob/master/media/Project11.mp4)
+[Download video result](https://github.com/SanjinKurelic/ArduinoPlayground/raw/master/media/Project11.mp4)
 
 ## Project 12
 
 Program the robot to simulate parallel parking. Define own dimensions for parking lot and lane width.
 
-[Download video result](https://github.com/SanjinKurelic/ArduinoPlayground/blob/master/media/Project12.mp4)
+[Download video result](https://github.com/SanjinKurelic/ArduinoPlayground/raw/master/media/Project12.mp4)
 
 ## Project 13a
 
@@ -20,7 +20,7 @@ Program the robot to drive forward until it reaches POINT A. Let it rotate 5 tim
 
 ![](https://github.com/SanjinKurelic/ArduinoPlayground/blob/master/media/project1Image.png)
 
-[Download video result](https://github.com/SanjinKurelic/ArduinoPlayground/blob/master/media/Project13a.mp4)
+[Download video result](https://github.com/SanjinKurelic/ArduinoPlayground/raw/master/media/Project13a.mp4)
 
 ## Project 14
 
@@ -30,13 +30,13 @@ Program the robot to drive in a motion that resembles number 8 as much as possib
 
 Program the robot to follow a straight black line on light background.
 
-[Download video result](https://github.com/SanjinKurelic/ArduinoPlayground/blob/master/media/Project21.mp4)
+[Download video result](https://github.com/SanjinKurelic/ArduinoPlayground/raw/master/media/Project21.mp4)
 
 ## Project 22
 
 Program the robot to follow a general black line on light background. Black line is continuous and forms the outline of a shape. No angle will be greater than 90 degrees.
 
-[Download video result](https://github.com/SanjinKurelic/ArduinoPlayground/blob/master/media/Project22.mp4)
+[Download video result](https://github.com/SanjinKurelic/ArduinoPlayground/raw/master/media/Project22.mp4)
 
 ## Project 24
 
