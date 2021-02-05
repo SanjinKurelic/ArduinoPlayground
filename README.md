@@ -26,6 +26,8 @@ Program the robot to drive forward until it reaches POINT A. Let it rotate 5 tim
 
 Program the robot to drive in a motion that resembles number 8 as much as possible. Do it for five times and then stop. Whenever the robot finishes driving one lap, let it quickly blink built-in LED as many times as is the current finished lap (for example, when it finishes third lap, it should blink 3 times).
 
+<a href="#">Video is too large for Github</a>
+
 ## Project 21
 
 Program the robot to follow a straight black line on light background.
@@ -43,3 +45,5 @@ Program the robot to follow a general black line on light background. Black line
 Program the robot to exit the maze. The maze is made of four rectangle boxes and there is always only one correct way to the exit. Random box configuration will be selected for marking. One possible configuration might be:
 
 ![](https://github.com/SanjinKurelic/ArduinoPlayground/blob/master/media/project2Image.png)
+
+[Download video result](https://github.com/SanjinKurelic/ArduinoPlayground/raw/master/media/Project24.mp4)
